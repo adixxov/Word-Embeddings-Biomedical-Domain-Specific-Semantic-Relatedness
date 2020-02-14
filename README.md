@@ -1,3 +1,5 @@
+# adixxov notes
+Keywords: word embeddings, fasttext, Glove, word2vec, biomedical
 # Word-Embeddings-Biomedical-Domain-Specific-Semantic-Relatedness
 This is the code repository for the work "Word Embeddings for Domain Specific Semantic Relatedness".
 
